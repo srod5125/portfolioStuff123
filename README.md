@@ -1,5 +1,6 @@
 # portfolioStuff123
 
-ASS CHEEKS
+Just making a portfolio website to be hosted on github
 
+(O_O)
 
